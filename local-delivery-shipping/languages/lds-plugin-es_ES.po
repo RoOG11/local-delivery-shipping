@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Local Delivery Shipping (Woocommerce)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 08:55+0000\n"
+"PO-Revision-Date: 2020-12-22 17:39+0000\n"
+"Last-Translator: admin <tooguru@yahoo.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.4.4"
+
+#: local-delivery-shipping.php:444
+msgid "Account Details"
+msgstr "Informes de la Cuenta"
+
+#: local-delivery-shipping.php:443
+msgid "Addresses"
+msgstr "Direcciones  "
+
+#: include/class-lds-settings.php:136
+msgid "After billing form"
+msgstr "Después del formulario de billing"
+
+#: include/class-lds-settings.php:138
+msgid "After order notes"
+msgstr "Después de la nota de pedido"
+
+#: include/class-lds-settings.php:137
+msgid "After shipping form"
+msgstr "Después del formulario de envío"
+
+#: include/class-lds-settings.php:100
+msgid "API Key"
+msgstr "Clave API"
+
+#: include/class-lds-settings.php:209
+msgid "Apply free shipping minimum order rule before discount coupon"
+msgstr ""
+"Aplicar la regla de pedido mínimo de envío gratis antes del cupón de "
+"descuento"
+
+#: local-delivery-shipping.php:205 local-delivery-shipping.php:206
+msgid "Billing "
+msgstr "Facturación"
+
+#: include/class-lds-settings.php:124
+msgid "Checkout Map Center"
+msgstr "Centro del mapa de checkout"
+
+#: include/class-lds-settings.php:130
+msgid "Checkout Map Position"
+msgstr "Posición del mapa"
+
+#: include/class-lds-settings.php:118
+msgid "Checkout Map Zoom"
+msgstr "Zoom del Mapa Checkout"
+
+#: include/class-lds-settings.php:49 include/class-lds-settings.php:151
+#| msgid "Checkout Form Settings"
+msgid "Checkout Settings"
+msgstr "Configuración del Checkout"
+
+#: local-delivery-shipping.php:441
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#: local-delivery-shipping.php:100 local-delivery-shipping.php:134
+#: local-delivery-shipping.php:193 local-delivery-shipping.php:195
+msgid "Delivery Location"
+msgstr "Lugar de Entrega"
+
+#: local-delivery-shipping.php:286 local-delivery-shipping.php:302
+msgid "Delivery on this location is currently unavailable!"
+msgstr "¡El reparto en esta ubicación no está disponible actualmente!"
+
+#: local-delivery-shipping.php:134
+msgid "Edit"
+msgstr "Editar"
+
+#: include/class-lds-settings.php:183
+msgid "Exclude Adress 2"
+msgstr "Excluir Dirección 2"
+
+#: include/class-lds-settings.php:188
+msgid "Exclude Cart Shipping"
+msgstr "Lugar de Entrega"
+
+#: include/class-lds-settings.php:168
+msgid "Exclude City"
+msgstr "Excluir Ciudad"
+
+#: include/class-lds-settings.php:178
+msgid "Exclude Company"
+msgstr "Excluir Empresa"
+
+#: include/class-lds-settings.php:158
+msgid "Exclude Country"
+msgstr "Excluir País"
+
+#: include/class-lds-settings.php:153
+msgid "Exclude fields at Checkout form and Account page"
+msgstr "Excluir campos en el formulario de checkout y la página de cuenta"
+
+#: include/class-lds-settings.php:173
+msgid "Exclude Postcode"
+msgstr "Excluir Código Postal"
+
+#: include/class-lds-settings.php:163
+msgid "Exclude State"
+msgstr "Excluir Estado"
+
+#: include/class-lds-shipping-method.php:128
+msgid "Free delivery on orders over "
+msgstr "Entrega gratuita en pedidos superiores a"
+
+#: include/class-lds-settings.php:206
+msgid "Free Shipping + Coupons"
+msgstr "Envío Gratis + Cupones"
+
+#: include/class-lds-settings.php:112
+msgid "Geocode City, Country"
+msgstr "Geocodificar ciudad, país"
+
+#: include/class-lds-settings.php:102
+msgid "Google API Key, Geolocation API + Maps JavaScript API + Geocoding API"
+msgstr ""
+
+#: include/class-lds-settings.php:108
+msgid "Google Earth delivery zones polygon map"
+msgstr "Mapa de polígonos de zonas de reparto de Google Earth"
+
+#: include/class-lds-post-type.php:56
+msgid "Google Map"
+msgstr "Mapa de Google"
+
+#. Description of the plugin
+msgid "Google map local delivery shipping method for Woocommerce"
+msgstr "Método de envío de reparto local en Google map para Woocommerce"
+
+#: include/class-lds-settings.php:94
+msgid "Google Map Settings"
+msgstr "Ajustes de Google Map"
+
+#: include/class-lds-settings.php:114
+msgid ""
+"Help API to locate address on the map at checkout by adding city name, "
+"country."
+msgstr ""
+"Ayuda a la API a ubicar la dirección en el mapa agregando el nombre de la "
+"ciudad, el país."
+
+#: include/class-lds-settings.php:194
+msgid "Hide Map"
+msgstr "Ocultar mapa"
+
+#: include/class-lds-settings.php:197
+msgid "Hide map for other shipping methods"
+msgstr "Ocultar mapa para otros métodos de envío"
+
+#. Author URI of the plugin
+msgid "https://wpexperto.es/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wpexperto.es/local-delivery-shipping-woocommerce/"
+msgstr ""
+
+#: include/class-lds-settings.php:106
+msgid "KML Map URL"
+msgstr "URL de Mapa KML"
+
+#: local-delivery-shipping.php:137 local-delivery-shipping.php:146
+#: local-delivery-shipping.php:208 local-delivery-shipping.php:539
+#: include/class-lds-post-type.php:39
+msgid "Latitude"
+msgstr "Latitud"
+
+#: include/class-lds-settings.php:27
+msgid "Local Delivery"
+msgstr "Reparto Local"
+
+#. Name of the plugin
+msgid "Local Delivery Shipping (Woocommerce)"
+msgstr ""
+
+#: local-delivery-shipping.php:565
+msgid "Locate Me"
+msgstr "Ubícame"
+
+#: local-delivery-shipping.php:305
+msgid "Locate yourself to view delivery price!"
+msgstr "¡Ubícate para ver el precio de reparto!"
+
+#: local-delivery-shipping.php:445
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+#: local-delivery-shipping.php:138 local-delivery-shipping.php:155
+#: local-delivery-shipping.php:211 local-delivery-shipping.php:546
+#: include/class-lds-post-type.php:47
+msgid "Longitude"
+msgstr "Longitud"
+
+#: include/class-lds-settings.php:48
+msgid "Map Settings"
+msgstr "Ajustes de mapa"
+
+#: local-delivery-shipping.php:495
+msgid "Mobile"
+msgstr "Móvil"
+
+#: include/class-lds-settings.php:126
+msgid ""
+"Optional, This controls the center of the checkout delivery map. lat, long"
+msgstr ""
+"Opcional, controla el centro del mapa de reparto en checkout. latitud, "
+"longitud"
+
+#: include/class-lds-settings.php:120
+msgid "Optional, This controls the zoom of the delivery zone on the map."
+msgstr "Opcional, controla el zoom de la zona de reparto en el mapa."
+
+#: local-delivery-shipping.php:442
+msgid "Orders"
+msgstr "Pedidos"
+
+#: local-delivery-shipping.php:289
+msgid "Please locate yourself on the map!"
+msgstr "¡Ubícate en el mapa!"
+
+#: local-delivery-shipping.php:563
+msgid "Relocate Me"
+msgstr "Reubicarme"
+
+#: include/class-lds-settings.php:190
+msgid "Remove shipping calculator on cart page"
+msgstr "Eliminar la calculadora de envío en la página del carrito"
+
+#: include/class-lds-settings.php:200
+msgid "Shipping Label"
+msgstr "Etiqueta de envío"
+
+#: include/class-lds-settings.php:202
+msgid "Shipping label at checkout"
+msgstr "Etiqueta de envío al finalizar la compra"
+
+#: include/class-lds-post-type.php:207
+msgid "Shortcode +:"
+msgstr "Código corto +:"
+
+#: include/class-lds-post-type.php:205
+msgid "Shortcode:"
+msgstr "Código corto:"
+
+#: include/class-lds-settings.php:132
+msgid "This controls the position of the checkout delivery map."
+msgstr "Esto controla la posición del mapa de entrega de caja."
+
+#. Author of the plugin
+msgid "WP Experto"
+msgstr ""

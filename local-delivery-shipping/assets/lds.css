@@ -1,0 +1,19 @@
+#delivery-map-canvas {
+	margin: 0px;
+	padding: 0px;
+	height: 400px;
+}
+.mapcheckout {
+	width:100%;
+	margin-bottom:20px;
+}
+.locateme {
+	margin-top:20px;
+}
+.locatemeholder{
+	height:50px!important;
+	margin-top: 20px;
+}
+#billing_gps_lat_field, #billing_gps_long_field {
+	display:none;
+}
